@@ -16,4 +16,4 @@ Welcome to my personal portfolio website! This is where I showcase my skills, pr
 - **GitHub Pages** for deployment (optional)
 
 ## Installation
-You can view the live version of this portfolio [here](https://annusoni35.github.io/portfolio/) (replace with your actual link).
+You can view the live version of this portfolio [here](https://annusoni35.github.io/portfolio/).
